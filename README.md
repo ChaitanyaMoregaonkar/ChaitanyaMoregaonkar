@@ -73,21 +73,25 @@ I’m passionate about **Data Analytics, Machine Learning, and Digital Product S
 
 ## 💼 Work Experience  
 
-### 📌 **Product Analyst (GTM Strategy) | InzpireU** *(Jan 2025 – May 2025)*  
+### 📌 Product Analyst (GTM Strategy) | InzpireU *(Jan 2025 – May 2025)*  
 - Analyzed survey & interview data to uncover **3 key adoption drivers**, shaping product positioning for a mentorship platform  
 - Conducted **competitive benchmarking** across 12 platforms, identifying differentiators like AI-driven matchmaking  
 - Built a **Tableau dashboard** tracking engagement KPIs, improving adoption tracking accuracy by **15%**
 
-### 📌 **Data Analyst | Tata Consultancy Services** *(Sep 2022 – May 2023)*  
-- Designed **11+ real-time Tableau dashboards**, increasing operational revenue by **$13.7K quarterly**  
-- Analyzed heatmaps & user navigation data, reducing **bounce rate by 23%**  
-- Partnered with Data Engineering team to optimize **ETL workflows**, reducing pipeline runtime by **40%**  
-- Built **forecasting models (Random Forest, Linear Regression)** to improve inventory and rollout planning  
+### 📌 Business Data Analyst | Tata Consultancy Services *(Aug 2022 – May 2023)*  
+- Designed & maintained **11+ real-time Tableau dashboards**, increasing operational revenue by **$13.7K per quarter**  
+- Analyzed **heatmaps & user navigation data**, leading to UI changes that reduced **bounce rate by 23%**  
+- Consolidated **8+ Tableau reports** into an interactive dashboard uncovering regional sales trends, boosting revenue by **$18.2K across 10 regions**  
+- Built **demand forecasting models (Random Forest, Linear Regression)** to optimize inventory & rollout planning across **10 regions**  
+- Developed **ETL workflows in Python & Snowflake**, reducing processing time by **25%** and ensuring ingestion of **2M+ records daily**  
+- Partnered with **engineering, QA, and operations teams** to align backlog priorities, improving operational accuracy by **20%**  
+- Translated stakeholder requirements into **Jira stories & acceptance criteria**, ensuring clear documentation and traceability  
 
-### 📌 **Systems Analyst | Tata Consultancy Services** *(Jun 2021 – Aug 2022)*  
-- Developed backend logic for a SaaS supply chain platform using **Java, Spring Boot, and SQL**, boosting sales by **40%**  
-- Automated billing using **Python**, reducing manual errors by **50%**  
-- Built an **incident mitigation system** using SQL and scheduled alerts, reducing disruptions by **25%**
+### 📌 Systems Analyst | Tata Consultancy Services *(Jun 2021 – Aug 2022)*  
+- Developed **backend logic & data pipelines** for a SaaS supply chain platform using **Java, Spring Boot, SQL**, driving a **40% increase in sales**  
+- Automated **billing workflows with Python (Pandas, email automation)**, cutting manual errors by **50%**  
+- Optimized **Oracle stored procedures & SQL queries**, reducing system downtime by **15%**  
+- Built an **automated incident mitigation system** using Python & SQL, enabling faster issue detection and reducing disruptions by **25%**
 
 ---
 
