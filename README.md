@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 
-**Data Analyst | Product Analyst | Business Intelligence Developer**  
+**Business Data Analyst | Product Analyst | Business Intelligence Developer**  
 
 I’m passionate about **Data Analytics, Machine Learning, and Digital Product Strategy**, bridging the gap between business and technology. My work focuses on extracting insights from large datasets and using data-driven storytelling to improve decision-making and user experiences.
 
